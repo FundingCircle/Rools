@@ -8,7 +8,7 @@ GEM
       rake (>= 0.7.2)
       rubyforge (>= 0.4.1)
     json_pure (1.6.1)
-    rake (0.7.2)
+    rake (12.3.3)
     rcov (0.9.11)
     rote (0.3.6)
       RedCloth (> 3.0)
@@ -24,7 +24,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth (~> 3.0.4)
   ZenTest (~> 3.6.0)
-  rake (= 0.7.2)
+  rake (= 12.3.3)
   rcov (~> 0.8)
   rote (~> 0.3.4)
   rspec (~> 1.0.5)
